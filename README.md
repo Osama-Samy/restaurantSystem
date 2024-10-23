@@ -105,8 +105,4 @@ Before you begin, ensure you have met the following requirements:
 
 Contributions are always welcome! If you have any ideas or find any issues, feel free to create an issue or a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## By: Osama Samy
