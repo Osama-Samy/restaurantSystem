@@ -109,4 +109,4 @@ Contributions are always welcome! If you have any ideas or find any issues, feel
 
 This project is licensed under the MIT License.
 
-هذا الملف يشرح جميع جوانب المشروع، بدءًا من فكرة المشروع وحتى تنفيذ جميع المتطلبات التقنية. إذا كان لديك أي استفسار إضافي، لا تتردد في طرحه!
+## By: Osama Samy
